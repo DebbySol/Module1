@@ -1,1 +1,35 @@
-C:\Users\Deborah.Solomon\Desktop\RTUTORIAL\basicsyntax\module1.html
+<!DOCTYPE html>
+<html>
+    <head>
+<style>
+    .ehaacademy {
+        margin: auto;
+        width: 40%;
+    }
+    .bg {
+        background-color: blue;
+        min-height: 100px;
+    }
+    .jointheacademy {
+        background-color: blue;
+        min-height: 100px;
+    }
+
+</style>   
+  
+        <title>eHA Academy</title>
+</head>
+<body>
+<div class="ehaacademy">
+    <img src="./Screenshot_224.png" />
+
+<p>eHealth Africa’s mission is to build stronger health systems through the design and implementation of data-driven solutions that respond to local needs and provide underserved communities with tools to lead healthier lives.</p>
+
+<button> JOIN THE ACADEMY</button>
+    <div class="bg">
+    <div class="hello">
+    <div class="jointheacademy">
+</div>
+</body>
+</html>
+
