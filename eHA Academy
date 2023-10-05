@@ -1,42 +1,43 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <title>eHA Academy</title>
 <style>
 
-    .ehaacademy {
+      .ehaacademy {
         margin: auto;
         width: 40%;
-    }
-    .ehaacademy {
-        background-color: #0090ff;
+        /* background-color: #0090ff; */
         min-height: 100px;
     }
 
     .center {
         margin: 0;
     }
-    
-    
 
-</style>   
+    .picture {
+        border: 2px solid black;
+    }
+    
+    </style>   
   
-        <title>eHA Academy</title>
+        
+        
 </head>
 <body>
-<div class="ehaacademy">
-    <div style="text-align: center;">
-        <img src="https://drive.google.com/file/d/1qkiLCq-NN7EkBMERmjP28CUxeSyJoLZI/view?usp=drive_link" alt="eHealth Africa logo"/>
+<div class="ehaacademy picture">
+    <h1 style="text-align: center">eHA Academy</h1>
+        <div style="text-align: center;">
+        <img style = "width: 200px;"src="./Screenshot_224.png" alt="eHealth Africa logo"/>
+        <p>eHealth Africa’s mission is to build 
+            stronger health systems through the design and 
+            implementation of data-driven solutions that respond 
+            to local needs and provide underserved communities 
+            with tools to lead healthier lives.</p>
+            
+    <button>JOIN THE ACADEMY</button>
     </div>
-       
-    <p><center>eHealth Africa’s mission is to build 
-        stronger health systems through the design and 
-        implementation of data-driven solutions that respond 
-        to local needs and provide underserved communities 
-        with tools to lead healthier lives.</center></p>
-
-<button><center>JOIN THE ACADEMY</center> </button>
-
-    <div class="jointheacademy">
+          <div class="jointheacademy">
         <div class="center">
 
         </div>
